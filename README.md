@@ -1,1 +1,2 @@
-# 3DUnet__MRI
+# Segmenting Small Structures in MRI
+## Implemented with Pytorch
